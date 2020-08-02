@@ -8,3 +8,4 @@
 <p>Number of classes: 131 (fruits and vegetables).</p>
 <p>Image size: 100x100 pixels.</p>
 <h2>The dataset can be downloaded from: <a href="https://www.kaggle.com/moltean/fruits" target="_blank">Kaggle</a></h2>
+<h2>Result : Final accuracy was 87.3%</h2>
